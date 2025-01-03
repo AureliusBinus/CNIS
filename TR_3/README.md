@@ -9,6 +9,6 @@ Computer Network and Information Security
 ## VIDEO DEMO
 [DEMO] (under construction)
 ## PRESENTATION
-[Canva](https://www.canva.com/design/DAGZqCJiVZo/6Vt5N6UyipYxuWqbKa51Yg/edit?utm_content=DAGZqCJiVZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Canva](https://www.canva.com/design/DAGZqCJiVZo/6Vt5N6UyipYxuWqbKa51Yg/edit?utm_content=DAGZqCJiVZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (under construction)
 ## CISCO .pkt
-- {ERROR}
+- {ERROR} (under investigation)
