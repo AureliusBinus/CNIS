@@ -6,8 +6,8 @@ TEAM MEMBERS:
 - Matthew Thomas Oevalen - 2502030712
 - FAJAR Pramana Salim - 2702352572
 
-# VIDEO
-- LINK
+# PPT & VIDEO
+- PPT: https://www.canva.com/design/DAGZqCJiVZo/6Vt5N6UyipYxuWqbKa51Yg/edit?utm_content=DAGZqCJiVZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # CISCO .pkt
 - LINK
