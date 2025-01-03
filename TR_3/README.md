@@ -6,8 +6,9 @@ Computer Network and Information Security
 - Matthew Thomas Oevalen - 2502030712
 - FAJAR Pramana Salim - 2702352572
 
-## PPT & VIDEO
-- [PPT](https://www.canva.com/design/DAGZqCJiVZo/6Vt5N6UyipYxuWqbKa51Yg/edit?utm_content=DAGZqCJiVZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [VIDEO]()
+## VIDEO DEMO
+[DEMO] (under construction)
+## PRESENTATION
+[Canva](https://www.canva.com/design/DAGZqCJiVZo/6Vt5N6UyipYxuWqbKa51Yg/edit?utm_content=DAGZqCJiVZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## CISCO .pkt
-- <ERROR>
+- {ERROR}
